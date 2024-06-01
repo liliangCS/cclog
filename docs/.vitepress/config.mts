@@ -7,7 +7,10 @@ export default defineConfig({
     sidebar: [
       {
         text: "01 系统编程",
-        items: [{ text: "a. 文件IO", link: "/01/a" }]
+        items: [
+          { text: "a. 文件IO", link: "/01/a" },
+          { text: "b. 标准IO", link: "/01/b" }
+        ]
       },
       {
         text: "02 网络编程",
