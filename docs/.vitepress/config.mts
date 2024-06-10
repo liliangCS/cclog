@@ -14,8 +14,11 @@ export default defineConfig({
         ]
       },
       {
-        text: "02 网络编程",
-        items: [{ text: "a. socket套接字", link: "/02/a" }]
+        text: "02 多线程编程",
+        items: [
+          { text: "a. 进程概述", link: "/02/a" },
+          { text: "b. 线程概述", link: "/02/b" }
+        ]
       }
     ]
   }
