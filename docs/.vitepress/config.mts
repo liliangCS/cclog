@@ -19,6 +19,10 @@ export default defineConfig({
           { text: "a. 进程概述", link: "/02/a" },
           { text: "b. 线程概述", link: "/02/b" }
         ]
+      },
+      {
+        text: "03 Qt基础",
+        items: [{ text: "a. QString类", link: "/03/a" }]
       }
     ]
   }
