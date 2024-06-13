@@ -22,7 +22,10 @@ export default defineConfig({
       },
       {
         text: "03 Qt基础",
-        items: [{ text: "a. QString类", link: "/03/a" }]
+        items: [
+          { text: "a. QString类", link: "/03/a" },
+          { text: "a. MOC", link: "/03/b" }
+        ]
       }
     ]
   }
