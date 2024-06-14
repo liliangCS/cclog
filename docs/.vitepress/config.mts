@@ -24,7 +24,8 @@ export default defineConfig({
         text: "03 Qt基础",
         items: [
           { text: "a. QString类", link: "/03/a" },
-          { text: "a. MOC", link: "/03/b" }
+          { text: "b. MOC", link: "/03/b" },
+          { text: "c. 信号槽两种写法对比", link: "/03/c" }
         ]
       }
     ]
