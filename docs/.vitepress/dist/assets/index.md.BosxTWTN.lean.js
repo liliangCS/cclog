@@ -1,4 +1,4 @@
-import{_ as e,c as o,o as t,j as n,a2 as a}from"./chunks/framework._K38LhNE.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),r={name:"index.md"},i=n("img",{style:{border:"1px solid #666"},src:a},null,-1),s=n("pre",{style:{"text-align":"center"}},`
+import{_ as e,c as o,o as t,j as n,a3 as a}from"./chunks/framework.CK0mJ2fg.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),r={name:"index.md"},i=n("img",{style:{border:"1px solid #666"},src:a},null,-1),s=n("pre",{style:{"text-align":"center"}},`
 New York is 3 hours ahead of California,
 
 纽约时间比加州时间早三个小时，

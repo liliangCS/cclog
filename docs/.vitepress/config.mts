@@ -25,7 +25,8 @@ export default defineConfig({
         items: [
           { text: "a. QString类", link: "/03/a" },
           { text: "b. MOC", link: "/03/b" },
-          { text: "c. 信号槽两种写法对比", link: "/03/c" }
+          { text: "c. 信号槽两种写法对比", link: "/03/c" },
+          { text: "d. 文件对话框用法", link: "/03/d" }
         ]
       }
     ]
