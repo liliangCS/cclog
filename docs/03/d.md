@@ -2,8 +2,6 @@
 
 Qt 提供了多种文件对话框，用于在应用程序中打开、保存文件或选择目录。这些对话框主要通过 QFileDialog 类实现。以下是一些常用的示例和基本用法。
 
-
-
 ### 打开文件对话框
 
 要创建一个打开文件对话框，可以使用 QFileDialog::getOpenFileName 方法。这是一个静态方法，不需要创建 QFileDialog 对象即可使用。
@@ -25,8 +23,6 @@ int main(int argc, char *argv[])
     return app.exec();
 }
 ```
-
-
 
 ### 保存文件对话框
 
@@ -50,8 +46,6 @@ int main(int argc, char *argv[])
 }
 ```
 
-
-
 ### 选择目录对话框
 
 要创建一个选择目录对话框，可以使用 QFileDialog::getExistingDirectory 方法。
@@ -73,8 +67,6 @@ int main(int argc, char *argv[])
     return app.exec();
 }
 ```
-
-
 
 ### 自定义文件对话框
 
