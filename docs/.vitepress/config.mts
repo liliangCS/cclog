@@ -30,7 +30,8 @@ export default defineConfig({
           { text: "e. Qt操作JSON数据", link: "/03/e"},
           { text: "f. QVariant类", link: "/03/f" },
           { text: "g. QList类", link: "03/g" },
-          { text: "h. QSignalMapper类", link: "03/h" }
+          { text: "h. QSignalMapper类", link: "03/h" },
+          { text: "i. QThread类", link: "03/i" }
         ]
       },
       {
@@ -42,8 +43,7 @@ export default defineConfig({
       {
         text: "05 架构模式",
         items: [
-          {text: "a. MVC", link: "05/a"},
-          {text: "b. MVVM", link: "05/b"}
+          {text: "a. MVC", link: "05/a"}
         ]
       }
     ]
