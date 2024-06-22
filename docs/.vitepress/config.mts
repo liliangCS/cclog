@@ -29,7 +29,8 @@ export default defineConfig({
           { text: "d. 文件对话框用法", link: "/03/d"},
           { text: "e. Qt操作JSON数据", link: "/03/e"},
           { text: "f. QVariant类", link: "/03/f" },
-          { text: "g. QList类", link: "03/g" }
+          { text: "g. QList类", link: "03/g" },
+          { text: "h. QSignalMapper类", link: "03/h" }
         ]
       }
     ]
