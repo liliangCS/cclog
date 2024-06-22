@@ -32,6 +32,19 @@ export default defineConfig({
           { text: "g. QList类", link: "03/g" },
           { text: "h. QSignalMapper类", link: "03/h" }
         ]
+      },
+      {
+        text: "04 设计模式",
+        items: [
+          { text: "a. 单例模式", link: "/04/a" },
+        ]
+      },
+      {
+        text: "05 架构模式",
+        items: [
+          {text: "a. MVC", link: "05/a"},
+          {text: "b. MVVM", link: "05/b"}
+        ]
       }
     ]
   }
